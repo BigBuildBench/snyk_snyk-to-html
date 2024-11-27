@@ -1,0 +1,9 @@
+data
+/.nyc_output/
+/node_modules/
+.DS_Store
+npm-debug.log
+/dist/
+/output/
+*.orig
+.eslintcache
